@@ -15,6 +15,7 @@ public class LABUIICursoGit {
      */
     public static void main(String[] args) {
         System.out.println("¡Hola freeCodeCamp!");
+        System.out.println("Estoy aprendiendo Git");
     }
     
 }
